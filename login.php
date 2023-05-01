@@ -33,7 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             exit();
         }
     } else {
-        $error_message = "Username atau password salah. Silakan coba lagi.";
+        $error_message = "Usernameeee atau password salah. Silakan coba lagi.";
     }
 }
 ?>
